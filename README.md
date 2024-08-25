@@ -1,1 +1,2 @@
 # Second-Hand-Car-Dealer-MySQL
+The objective is to develop a MySQL-based system for managing and analyzing a second-hand car dealership’s inventory. The `CarsDataset` database includes details like car name, year, selling price, and other attributes. Analysis reveals a total of 8,148 car records, with 6 cars available in 2023. For previous years, the dataset shows 74 cars in 2020, 7 in 2021, and 7 in 2022. In 2020, there are 20 diesel and 51 petrol cars. From 2015 to 2023, there are 4,137 cars.
